@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\source\P05.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\P06.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\Main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\P10.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\P13.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\6-19.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\P19.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\P15.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\P25.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\include\HW_5.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
